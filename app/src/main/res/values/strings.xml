@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="indtast_a">Indtast a</string>
+    <string name="indtast_b">Indtast b</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="divider">/</string>
+    <string name="gange">*</string>
+</resources>
